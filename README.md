@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineer interested in various topics such as software development, software architecture, cloud technologies and IT security
+
 <!--
 **boonkeato/boonkeato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
